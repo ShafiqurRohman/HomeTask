@@ -1,0 +1,14 @@
+C:\Users\Shafiqur Rahman\OneDrive\Documents\Programming\XmlValidator\XmlValidator\bin\Debug\net8.0\XmlValidator.exe
+C:\Users\Shafiqur Rahman\OneDrive\Documents\Programming\XmlValidator\XmlValidator\bin\Debug\net8.0\XmlValidator.deps.json
+C:\Users\Shafiqur Rahman\OneDrive\Documents\Programming\XmlValidator\XmlValidator\bin\Debug\net8.0\XmlValidator.runtimeconfig.json
+C:\Users\Shafiqur Rahman\OneDrive\Documents\Programming\XmlValidator\XmlValidator\bin\Debug\net8.0\XmlValidator.dll
+C:\Users\Shafiqur Rahman\OneDrive\Documents\Programming\XmlValidator\XmlValidator\bin\Debug\net8.0\XmlValidator.pdb
+C:\Users\Shafiqur Rahman\OneDrive\Documents\Programming\XmlValidator\XmlValidator\obj\Debug\net8.0\XmlValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shafiqur Rahman\OneDrive\Documents\Programming\XmlValidator\XmlValidator\obj\Debug\net8.0\XmlValidator.AssemblyInfoInputs.cache
+C:\Users\Shafiqur Rahman\OneDrive\Documents\Programming\XmlValidator\XmlValidator\obj\Debug\net8.0\XmlValidator.AssemblyInfo.cs
+C:\Users\Shafiqur Rahman\OneDrive\Documents\Programming\XmlValidator\XmlValidator\obj\Debug\net8.0\XmlValidator.csproj.CoreCompileInputs.cache
+C:\Users\Shafiqur Rahman\OneDrive\Documents\Programming\XmlValidator\XmlValidator\obj\Debug\net8.0\XmlValidator.dll
+C:\Users\Shafiqur Rahman\OneDrive\Documents\Programming\XmlValidator\XmlValidator\obj\Debug\net8.0\refint\XmlValidator.dll
+C:\Users\Shafiqur Rahman\OneDrive\Documents\Programming\XmlValidator\XmlValidator\obj\Debug\net8.0\XmlValidator.pdb
+C:\Users\Shafiqur Rahman\OneDrive\Documents\Programming\XmlValidator\XmlValidator\obj\Debug\net8.0\XmlValidator.genruntimeconfig.cache
+C:\Users\Shafiqur Rahman\OneDrive\Documents\Programming\XmlValidator\XmlValidator\obj\Debug\net8.0\ref\XmlValidator.dll

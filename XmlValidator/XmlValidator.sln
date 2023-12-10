@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XmlValidator", "XmlValidator\XmlValidator.csproj", "{834DC179-9781-401B-9633-9F522FCC6585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlValidator.UnitTests", "XmlValidator.UnitTests\XmlValidator.UnitTests.csproj", "{399023BB-7D10-49EF-AA53-41CE452058C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{834DC179-9781-401B-9633-9F522FCC6585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834DC179-9781-401B-9633-9F522FCC6585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834DC179-9781-401B-9633-9F522FCC6585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834DC179-9781-401B-9633-9F522FCC6585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{399023BB-7D10-49EF-AA53-41CE452058C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399023BB-7D10-49EF-AA53-41CE452058C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399023BB-7D10-49EF-AA53-41CE452058C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399023BB-7D10-49EF-AA53-41CE452058C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B41A8F4-81CC-4E88-B424-6F0ECD2A45EF}
+	EndGlobalSection
+EndGlobal
